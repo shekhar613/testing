@@ -1,0 +1,4 @@
+create envirn-ment : -   python -m <name>
+activate envirn-ment : - <name>/Scripts/activate
+deactivate envirn-ment : - <name>/Scripts/deactivate
+python -m pip install python-dotenv
